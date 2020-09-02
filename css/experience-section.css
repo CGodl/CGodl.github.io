@@ -10,6 +10,7 @@
   list-style-type: none;
   display: flex;
   flex-direction: column;
+  padding: 2px;
   
   
   
@@ -18,7 +19,7 @@
 .experience-icons-main li img {
   height: 80px;
   width: auto;
-  padding: 2px;
+  
   
 }
 
