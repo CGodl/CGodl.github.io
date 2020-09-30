@@ -69,6 +69,19 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 
+
+/* .profile-photo-circle {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-left: 45%;
+  margin-right: 55%;
+  margin-top: 1%;
+} */
+
+
+
+
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
