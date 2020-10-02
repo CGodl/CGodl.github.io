@@ -1,4 +1,6 @@
 .experience-icons-main {
+  padding-left: 2px;
+  width: 800px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
