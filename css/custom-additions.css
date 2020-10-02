@@ -1,0 +1,15 @@
+
+.profile-photo-circle {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  margin-left: 39%;
+  margin-right: 61%;
+  object-fit: contain;
+}
+
+
+.big-intro-text {
+  margin-top: 190px;
+  margin-bottom: 100px;
+}
